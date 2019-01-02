@@ -12,7 +12,7 @@ Next I installed the [github desktop app](https://desktop.github.com) to be able
 
 ### Create a website
 
-Next, I created a website using the [hugo academic template](https://themes.gohugo.io//theme/academic/post/getting-started/). I realised in doing so that installing the desktop version of git.
+Next, I created a website using the [hugo academic template](https://themes.gohugo.io//theme/academic/post/getting-started/). 
 
 ### Create a book
 
