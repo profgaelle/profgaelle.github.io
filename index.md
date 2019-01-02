@@ -18,7 +18,7 @@ Next, I created a website using the [hugo academic template](https://themes.gohu
 
 Next, I created a guidebook for my module, following [this tutorial](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html) and these steps:
 
-1. Fork the [book-start repo](https://github.com/seankross/bookdown-start)
+1. Fork the [bookdown-start repo](https://github.com/seankross/bookdown-start)
 2. Rename the repository
 3. Clone the repository to your desktop
 4. Fetch origin in GitHub Desktop
