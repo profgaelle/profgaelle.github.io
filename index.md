@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Journal 
 
-This journal is there to help me remembering how I got there in the end (minus the dead ends).
+This journal is there to help me remember how I got there in the end (minus the dead ends).
 
 ### Get started
 
