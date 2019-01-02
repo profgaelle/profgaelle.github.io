@@ -25,7 +25,7 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 5. Open R Studio and create a new project, select the cloned directory of the GitHub repository
 6. Open _output.yml; change the book title and the split_by: section 
 
-      Note: the split_by option is best for a short document so the whole text can be saved in the index.Rmd file.
+            Note: the split_by option is best for a short document so the whole text can be saved in the index.Rmd file.
 
 7. Open _bookdown.yml and change the book_filename, and the repo:
 8. Open index.Rmd and make the required changes.
