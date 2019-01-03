@@ -34,7 +34,7 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 
 1. Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
 
-`devtools::install_github("crsh/papaja")
+`devtools::install_github("crsh/papaja")`
 
 
 
