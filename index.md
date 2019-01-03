@@ -30,9 +30,9 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 7. Open _bookdown.yml and change the book_filename, and the repo:
 8. Open index.Rmd and make the required changes.
 
-### Creating a papaja preprint
+### Create a papaja preprint
 
-Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
+1. Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
 
 `devtools::install_github("crsh/papaja")
 
