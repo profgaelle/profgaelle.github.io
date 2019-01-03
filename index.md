@@ -37,7 +37,6 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 `devtools::install_github("crsh/papaja")`
 
 2. Follow the [readme instructions](https://github.com/crsh/papaja/blob/master/README.md)
-
 3. Check the [apa6 LaTeX package](http://ctan.sharelatex.com/tex-archive/macros/latex/contrib/apa6/apa6.pdf) for options.
 
 
