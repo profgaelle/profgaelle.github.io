@@ -1,8 +1,8 @@
-## Welcome to my GitHub Journal 
+## Welcome to my GitHub/R-Studio Journal 
 
 This journal is there to help me remember how I got there in the end (minus the dead ends).
 
-### Get started
+### Get started with github
 
 I started with the [hello world tutorial](https://guides.github.com/activities/hello-world/) to understand what this is all about.
 
@@ -29,6 +29,14 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 
 7. Open _bookdown.yml and change the book_filename, and the repo:
 8. Open index.Rmd and make the required changes.
+
+### Creating a papaja preprint
+
+Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
+
+`devtools::install_github("crsh/papaja")
+
+
 
 
 
