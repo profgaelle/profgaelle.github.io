@@ -39,10 +39,16 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 2. Follow the [readme instructions](https://github.com/crsh/papaja/blob/master/README.md)
 3. Check the [apa6 LaTeX package](http://ctan.sharelatex.com/tex-archive/macros/latex/contrib/apa6/apa6.pdf) for options.
 
+### Link up my github website with R Studio
 
+1. Create a new R project
+2. Select the folder that is already a git repo and has your site in it
+3. Upload the .gitignore file (so git ignores the files that R Studio creates)
 
+Voilà! Now I can edit, commit, push all from inside R Studio.
 
+I also managed to link up my personal website which is built by hugo following [these instructions](https://itsalocke.com/blog/using-blogdown-with-an-existing-hugo-site/).
 
-
+easy-peasy-lemon-squeezy... (almost!)
 
 
