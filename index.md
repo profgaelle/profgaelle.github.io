@@ -47,7 +47,7 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 
 Voilà! Now I can edit, commit, push all from inside R Studio.
 
-I also managed to link up my personal website which is built by hugo following [these instructions](https://itsalocke.com/blog/using-blogdown-with-an-existing-hugo-site/).
+I also managed to link up my [personal website](https://profgaelle.com) which is built by hugo following [these instructions](https://itsalocke.com/blog/using-blogdown-with-an-existing-hugo-site/).
 
 easy-peasy-lemon-squeezy... (almost!)
 
