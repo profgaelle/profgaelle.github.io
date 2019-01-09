@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub/R-Studio Journal 
 
-You can use the [editor on GitHub](https://github.com/profgaelle/profgaelle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This journal is there to help me remember how I got there in the end (minus the dead ends).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Get started with github
 
-### Markdown
+I started with the [hello world tutorial](https://guides.github.com/activities/hello-world/) to understand what this is all about.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Get the desktop app for github
 
-```markdown
-Syntax highlighted code block
+Next I installed the [github desktop app](https://desktop.github.com) to be able to sync a folder on my computer, which is much easier than editing online.
 
-# Header 1
-## Header 2
-### Header 3
+### Create a website
 
-- Bulleted
-- List
+Next, I created a website using the [hugo academic template](https://themes.gohugo.io//theme/academic/post/getting-started/). 
 
-1. Numbered
-2. List
+### Create a book
 
-**Bold** and _Italic_ and `Code` text
+Next, I created a guidebook for my module, following [this tutorial](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html) and these steps:
 
-[Link](url) and ![Image](src)
-```
+1. Fork the [bookdown-start repo](https://github.com/seankross/bookdown-start)
+2. Rename the repository
+3. Clone the repository to your desktop
+4. Fetch origin in GitHub Desktop
+5. Open R Studio and create a new project, select the cloned directory of the GitHub repository
+6. Open _output.yml; change the book title and the split_by: section 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> *Note:* the split_by option is best for a short document so the whole text can be saved in the index.Rmd file.
 
-### Jekyll Themes
+7. Open _bookdown.yml and change the book_filename, and the repo:
+8. Open index.Rmd and make the required changes.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/profgaelle/profgaelle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Create a papaja preprint
 
-### Support or Contact
+1. Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`devtools::install_github("crsh/papaja")`
+
+2. Follow the [readme instructions](https://github.com/crsh/papaja/blob/master/README.md)
+3. Check the [apa6 LaTeX package](http://ctan.sharelatex.com/tex-archive/macros/latex/contrib/apa6/apa6.pdf) for options.
+
+
+
+
+
+
+
+
