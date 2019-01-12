@@ -30,6 +30,14 @@ Next, I created a guidebook for my module, following [this tutorial](http://sean
 7. Open _bookdown.yml and change the book_filename, and the repo:
 8. Open index.Rmd and make the required changes.
 
+An alternative route to simply create a book offline and export it as a .pdf or an ebook is to:
+
+1. Download the GitHub repository https://github.com/rstudio/bookdown-demo as a Zip file, then unzip it locally.
+2. Open the bookdown-demo repository you downloaded in RStudio by clicking bookdown-demo.Rproj.
+3. Open the R Markdown file index.Rmd and click the button Build Book on the Build tab of RStudio.
+
+> *Note:* For more details, look at https://bookdown.org/yihui/bookdown/get-started.html
+
 ### Create a papaja preprint
 
 1. Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
