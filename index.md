@@ -65,6 +65,12 @@ In this example I've used a png file, but pdf or jpg files also work fine. If yo
 
 Source: https://stackoverflow.com/a/48371022/6919113
 
+### Customise LaTeX output in bookdown
+
+> There are a large number of other YAML options that you can specify for LaTeX output, such as the paper size, font size, page margin, line spacing, font families, and so on. See http://pandoc.org/MANUAL.html#variables-for-latex for a full list of options.
+> Source: https://bookdown.org/yihui/bookdown/latexpdf.html
+
+
 ## Create a papaja preprint
 
 1. Install [papaja](https://crsh.github.io/papaja_man) in R Studio: 
@@ -85,5 +91,4 @@ Voilà! Now I can edit, commit, push all from inside R Studio.
 I also managed to link up my [personal website](https://profgaelle.com) which is built by hugo following [these instructions](https://itsalocke.com/blog/using-blogdown-with-an-existing-hugo-site/).
 
 easy-peasy-lemon-squeezy... (almost!)
-
 
