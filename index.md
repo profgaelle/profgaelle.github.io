@@ -71,6 +71,10 @@ Source: https://stackoverflow.com/a/48371022/6919113
 
 Source: https://bookdown.org/yihui/bookdown/latexpdf.html
 
+### Automatically update the date
+
+`date: "`r Sys.Date()`"`
+
 
 ## Create a papaja preprint
 
@@ -92,4 +96,5 @@ Voilà! Now I can edit, commit, push all from inside R Studio.
 I also managed to link up my [personal website](https://profgaelle.com) which is built by hugo following [these instructions](https://itsalocke.com/blog/using-blogdown-with-an-existing-hugo-site/).
 
 easy-peasy-lemon-squeezy... (almost!)
+
 
