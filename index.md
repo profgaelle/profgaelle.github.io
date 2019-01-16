@@ -73,7 +73,7 @@ Source: https://bookdown.org/yihui/bookdown/latexpdf.html
 
 ### Automatically update the date
 
-`date: "`r Sys.Date()`"`
+```date: "`r Sys.Date()`"```
 
 
 ## Create a papaja preprint
