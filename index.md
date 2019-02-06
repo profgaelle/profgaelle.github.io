@@ -6,6 +6,21 @@ This journal is there to help me remember how I got there in the end (minus the 
 
 I started with the [hello world tutorial](https://guides.github.com/activities/hello-world/) to understand what this is all about.
 
+1. Download and install Git.
+2. Download and install RStudio (1.1.383 or higher).
+3. Open RStudio.
+4. Create the remote repository on GitHub
+5. On GitHub.com, create a new repository.
+6. Click Add .ignore and select R.
+7. Click Create repository.
+8. Clone the repository with RStudio
+  - On the right side of the screen, click Clone or download.
+  - Click the Copy to clipboard icon to the right of the repository URL.
+9. Open RStudio on your local environment.
+10. Click File, New Project, Version Control, Git.
+11. Paste the repository URL and enter TAB to move to the Project directory name field.
+12. Click Create Project.
+
 ## Get the desktop app for github
 
 Next I installed the [github desktop app](https://desktop.github.com) to be able to sync a folder on my computer, which is much easier than editing online.
