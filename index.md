@@ -21,6 +21,11 @@ I started with the [hello world tutorial](https://guides.github.com/activities/h
 11. Paste the repository URL and enter TAB to move to the Project directory name field.
 12. Click Create Project.
 
+## Install the Academic Theme with R Studio
+
+Click [here](https://sourcethemes.com/academic/docs/install/#install-with-rstudio) for the instructions.
+
+
 ## Get the desktop app for github
 
 Next I installed the [github desktop app](https://desktop.github.com) to be able to sync a folder on my computer, which is much easier than editing online.
