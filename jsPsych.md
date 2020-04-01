@@ -1,0 +1,3 @@
+# Tryingto create a new page...
+
+1. Saves a new .md page in my R studio folder
