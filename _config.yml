@@ -1,3 +1,15 @@
 theme: minima
-title: Welcome to Prof Gaelle's GitHub journal!
-description: This is a learning journal with my open notes on how to use GitHub.
+title: My  GitHub journal
+author:
+  name: Prof Gaëlle
+description: > # this means to ignore newlines until "show_excerpts:"
+This is my learning journal with open notes on how I have used GitHub and other geeky resources.
+
+show_excerpts: true
+
+# generate social links in footer
+  social_links:
+    twitter: profgaelle
+    github:  profgaelle
+    youtube_channel: UCJvWlVgH82jxL8T4AYKTyIg
+    youtube_channel_name: profgaelle
